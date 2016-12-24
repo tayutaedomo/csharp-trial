@@ -1,2 +1,3 @@
 # csharp-trial
-Try C#
+Try C# using Rider EAP
+
